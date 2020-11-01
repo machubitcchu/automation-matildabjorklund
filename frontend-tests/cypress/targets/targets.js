@@ -1,5 +1,22 @@
 module.exports = {
     base_url: 'http://localhost:3000',
     username: 'tester01',
-    password: 'GteteqbQQgSr88SwNExUQv2ydb7xuf8c'
+    password: 'GteteqbQQgSr88SwNExUQv2ydb7xuf8c',
+    clientname: 'Lebron James',
+    clientmail: 'lebron@goat.com',
+    clientphone: '23232323',
+    newname: 'Kobe Bryant',
+    newmail: 'kobe@mamba.com',
+    newphone: '248248',
+    amount: '5000',
+    newamount: '3000',
+    assertion1: 'Tester Hotel Overview',
+    assertion2: 'Login',
+    assertion3: 'Create Client',
+    assertion4: 'New Client',
+    assertion5: 'Lebron',
+    assertion6: 'Kobe',
+    assertion7: 'Created',
+    assertion8: 'Create Bill',
+    assertion9: 'New Bill'
 }

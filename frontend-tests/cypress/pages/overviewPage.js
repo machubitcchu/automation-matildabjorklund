@@ -9,7 +9,6 @@ const roomView = ':nth-child(1) > .btn'
 const reservationView = ':nth-child(4) > .btn'
 
 // functions
-
 function checkOverviewPageTitle(){
     cy.title().should('eq', overviewPageTitle )
 }
@@ -29,7 +28,7 @@ function continueToRooms(cy, contentToConfirm){
     cy.get(roomView).click()
     cy.contains(contentToConfirm) 
 }
-function continueToReservations(cy, contentToConfirm){
+function continueToReservations(cy, contentToConfirmfangsup){
     cy.get(reservationView).click()
     cy.contains(contentToConfirm)
 }
