@@ -38,7 +38,8 @@ describe('Test suite', function(){
 
     it('Delete client', function(){
         overviewFuncs.continueToClients(cy, targets.assertion3)
-        clientFuncs.deleteOldClient(cy)
+        clientFuncs.deleteOldClient(cy, targets.assertion3)
+
     })
 
     it('Create bill', function(){

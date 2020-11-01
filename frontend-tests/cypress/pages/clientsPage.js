@@ -17,9 +17,10 @@ function editClient(cy, contentToConfirm){
     cy.get(editOption).click() 
     cy.contains(contentToConfirm)
 }
-function deleteOldClient(cy){
+function deleteOldClient(cy, contentToConfirm){
     cy.get(oldClient).click()
     cy.get(deleteOption).click()
+    cy.contains(contentToConfirm)
 }
 
 // exports
