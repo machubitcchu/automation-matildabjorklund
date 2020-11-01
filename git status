@@ -1,0 +1,23 @@
+[33mcommit 70803d9950c21619d54b9b47221f182fc4d283c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Matilda Björklund <matiildabjorklund@hotmail.com>
+Date:   Sun Nov 1 06:00:31 2020 +0100
+
+    added targets
+
+[33mcommit 18d8069e92821f2e12b169c81cf02d52e41d9337[m
+Author: Matilda Björklund <matiildabjorklund@hotmail.com>
+Date:   Sat Oct 31 18:48:00 2020 +0100
+
+    Installed mocha
+
+[33mcommit 75e55a05a2b815f9a1b6f2d83da68f8dd1c4284b[m
+Author: Matilda Björklund <matiildabjorklund@hotmail.com>
+Date:   Fri Oct 30 21:46:38 2020 +0100
+
+    Created .gitignore and project
+
+[33mcommit 52ebcbb7e83c60597b0491a8ef7b576a8dabcd88[m
+Author: Matilda Björklund <matiildabjorklund@hotmail.com>
+Date:   Fri Oct 30 14:14:49 2020 +0100
+
+    First commit
